@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Font Changer",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "An extension to change the font of the page based on available fonts",
     "action":{
         "default_popup": "popup.html"
